@@ -11,5 +11,5 @@
   * Associate user_policies for IAM user for managing instance.
   * Create Security Group
   * Create Instances on AWS
-*
+
 
